@@ -1,26 +1,25 @@
-# Hi 👋, I'm Alfian
+# Hi 👋, I'm Alfian Permana Putra
 
 🎓 Informatics Graduate  
-💻 Front-End & Product Enthusiast  
-🎨 UI/UX & Web Development  
+💻 Web Development & Product Enthusiast  
+🎨 UI/UX
 ---
 
 ### 🔧 Tech Stack
-- HTML, CSS, JavaScript
-- React.js, Tailwind CSS
+- HTML, CSS, JavaScript, Tailwind CSS
+- React.js, Laravel
 - Figma, Canva
-- SQL, Laravel
+- SQL
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,laravel)
 ---
 
 ### 📌 Current Focus
-- Front-End Development
-- Product Management Case Study
+- Web Development
+- Product Management 
 - UI/UX Improvement
 
 ---
 
 ### 📫 Reach Me
 - Email: palfian510@gmail.com
-- LinkedIn: linkedin.com/in/alfian
