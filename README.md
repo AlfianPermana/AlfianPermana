@@ -22,5 +22,5 @@
 ---
 
 ### 📫 Reach Me
-- Email: palfian@gmail.com
+- Email: palfian510@gmail.com
 - LinkedIn: linkedin.com/in/alfian
