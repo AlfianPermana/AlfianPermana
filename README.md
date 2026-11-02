@@ -1,25 +1,68 @@
-# Hi 👋, I'm Alfian Permana Putra
+# 👋 Hi, I'm Alfian Permana Putra
 
-🎓 Informatics Graduate  
-💻 Web Development & Product Enthusiast  
-🎨 UI/UX
----
+### 💻 Web Developer | UI/UX Enthusiast | Tech Explorer
 
-### 🔧 Tech Stack
-- HTML, CSS, JavaScript, Tailwind CSS
-- React.js, Laravel
-- Figma, Canva
-- SQL
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;Building+Digital+Experiences;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,laravel)
----
+I'm an Informatics graduate passionate about building digital solutions that combine functionality, usability, and great design.
 
-### 📌 Current Focus
-- Web Development
-- Product Management 
-- UI/UX Improvement
+I enjoy exploring new technologies, developing web applications, and transforming ideas into meaningful digital experiences.
 
 ---
 
-### 📫 Reach Me
-- Email: palfian510@gmail.com
+### 🚀 What I Do
+
+- 🌐 Develop responsive and user-friendly web applications
+- ⚙️ Build backend systems and database-driven applications
+- 🎨 Create clean and intuitive UI/UX designs
+- 💡 Explore product development and innovative solutions
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,laravel,mysql,figma,canva,git,github,vscode" />
+</p>
+
+---
+
+### 🎯 Currently Exploring
+
+- Scalable Web Application Development
+- UI/UX Design & User Experience
+- Product Management & Product Thinking
+- Modern Web Technologies
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:palfian510@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning ideas into code, and code into meaningful experiences."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=flat" />
+</p>
