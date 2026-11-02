@@ -6,9 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;Building+Digital+Experiences;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-I'm an Informatics graduate passionate about building digital solutions that combine functionality, usability, and great design.
+<p align="center">
+  <i>Passionate about technology, creative problem-solving, and building meaningful digital experiences.</i>
+</p>
 
-I enjoy exploring new technologies, developing web applications, and transforming ideas into meaningful digital experiences.
+I'm an Informatics graduate who enjoys combining technology, functionality, and design to create useful digital solutions.
+
+I love developing web applications, exploring modern technologies, and improving user experiences through clean code and intuitive interfaces.
 
 ---
 
@@ -16,38 +20,63 @@ I enjoy exploring new technologies, developing web applications, and transformin
 
 - 🌐 Develop responsive and user-friendly web applications
 - ⚙️ Build backend systems and database-driven applications
-- 🎨 Create clean and intuitive UI/UX designs
-- 💡 Explore product development and innovative solutions
+- 🎨 Design clean, intuitive, and engaging user interfaces
+- 💡 Explore product development and innovative technology solutions
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,laravel,mysql,figma,git,github" />
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Skills" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Backend Skills" />
+</p>
+
+**Tools & Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" alt="Tools" />
 </p>
 
 ---
 
 ### 🎯 Currently Exploring
 
-- Scalable Web Application Development
-- UI/UX Design & User Experience
-- Product Management & Product Thinking
-- Modern Web Technologies
+- 📈 Scalable and Maintainable Web Applications
+- 🎨 UI/UX Design & User Experience
+- 💼 Product Management & Product Thinking
+- 🚀 Modern Web Development Technologies
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlfianPermana&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlfianPermana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfianPermana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=AlfianPermana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/AlfianPermana/AlfianPermana/output/github-contribution-grid-snake-dark.svg">
-
     <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/AlfianPermana/AlfianPermana/output/github-contribution-grid-snake.svg">
-
     <img alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/AlfianPermana/AlfianPermana/output/github-contribution-grid-snake.svg">
   </picture>
@@ -59,6 +88,12 @@ I enjoy exploring new technologies, developing web applications, and transformin
 
 <p align="left">
   <a href="mailto:palfian510@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning ideas into code, creating experiences that matter."</i>
 </p>
