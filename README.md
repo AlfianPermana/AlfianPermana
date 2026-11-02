@@ -3,7 +3,7 @@
 ### 💻 Web Developer | UI/UX Enthusiast | Tech Explorer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FE019A&center=true&vCenter=true&width=600&lines=Hi+Everyone;2+years+experience;Junior+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FE019A&center=true&vCenter=true&width=600&lines=Hi+Everyone;2+years+experience+in+programming+world;Nice+to+see+you" alt="Typing SVG" />
 </p>
 
 I'm an Informatics graduate who enjoys combining technology, functionality, and design to create useful digital solutions.
