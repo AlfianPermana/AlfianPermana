@@ -50,13 +50,3 @@ I enjoy exploring new technologies, developing web applications, and transformin
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>"Turning ideas into code, and code into meaningful experiences."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=flat" />
-</p>
