@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code;Building+Digital+Experiences;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <i>Passionate about technology, creative problem-solving, and building meaningful digital experiences.</i>
-</p>
-
 I'm an Informatics graduate who enjoys combining technology, functionality, and design to create useful digital solutions.
 
 I love developing web applications, exploring modern technologies, and improving user experiences through clean code and intuitive interfaces.
