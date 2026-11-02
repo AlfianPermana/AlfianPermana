@@ -22,7 +22,7 @@ I enjoy exploring new technologies, developing web applications, and transformin
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,laravel,mysql,figma,canva,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,laravel,mysql,figma,git,github" />
 </p>
 
 ---
